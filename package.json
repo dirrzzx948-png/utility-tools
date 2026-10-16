@@ -1,0 +1,24 @@
+{
+  "name": "all-in-one-utility-tools",
+  "version": "1.0.0",
+  "description": "All-in-One Utility Tools - Web Scraper, WhatsApp Chat, Text Converter, QR Code, Base64 Encoder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  },
+  "keywords": [
+    "utility",
+    "scraper",
+    "tools",
+    "web"
+  ],
+  "author": "Grok",
+  "license": "MIT"
+}
